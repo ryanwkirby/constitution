@@ -3,14 +3,14 @@
 ## Section 1
 
 All persons born or naturalized in the United States, and subject to the jurisdiction thereof, are citizens of the United States and of the State wherein they reside.
-No State shall make or enforce any law which shall abridge the privileges or immunities of citizens of the United States;
-nor shall any State deprive any person of life, liberty, or property, without due process of law;
+No State shall make or enforce any law which shall abridge the privileges or immunities of citizens of the United States.
+nor shall any State deprive any person of life, liberty, or property, without due process of law.
 nor deny to any person within its jurisdiction the equal protection of the laws.
 
 ## Section 2
 
 Representatives shall be apportioned among the several States according to their respective numbers, counting the whole number of persons in each State, excluding Indians not taxed.
-But when the right to vote at any election for the choice of electors for President and Vice-President of the United States, Representatives in Congress, the Executive and Judicial officers of a State, or the members of the Legislature thereof, is denied to any of the male inhabitants of such State, being twenty-one years of age,* and citizens of the United States, or in any way abridged, except for participation in rebellion, or other crime, the basis of representation therein shall be reduced in the proportion which the number of such male citizens shall bear to the whole number of male citizens twenty-one years of age in such State.
+But when the right to vote at any election for the choice of electors for President and Vice-President of the United States, Representatives in Congress, the Executive and Judicial officers of a State, or the members of the Legislature thereof, is denied to any of the male inhabitants of such State, being eighteen years of age,* and citizens of the United States, or in any way abridged, except for participation in rebellion, or other crime, the basis of representation therein shall be reduced in the proportion which the number of such male citizens shall bear to the whole number of male citizens eighteen years of age in such State.
 
 ## Section 3
 
@@ -20,7 +20,7 @@ But Congress may by a vote of two-thirds of each House, remove such disability.
 ## Section 4
 
 The validity of the public debt of the United States, authorized by law, including debts incurred for payment of pensions and bounties for services in suppressing insurrection or rebellion, shall not be questioned.
-But neither the United States nor any State shall assume or pay any debt or obligation incurred in aid of insurrection or rebellion against the United States, or any claim for the loss or emancipation of any slave;
+But neither the United States nor any State shall assume or pay any debt or obligation incurred in aid of insurrection or rebellion against the United States, or any claim for the loss or emancipation of any slave.
 but all such debts, obligations and claims shall be held illegal and void.
 
 ## Section 5
