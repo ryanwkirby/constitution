@@ -1,0 +1,497 @@
+[
+  {
+    "number": 1,
+    "title": "Freedom of religion, speech, press, assembly and petition",
+    "proposed": "1789-09-25",
+    "ratified": "1791-12-15",
+    "date_source": "https://www.archives.gov/founding-docs/bill-of-rights-transcript",
+    "archives_date_line": "Ten of the proposed 12 amendments were ratified by three-fourths of the state legislatures on December 15, 1791.",
+    "author": {
+      "name": "James Madison",
+      "role": "Representative (VA); introduced the amendments in the House, 8 June 1789",
+      "source": "https://www.archives.gov/founding-docs/bill-of-rights"
+    },
+    "co_authors": [],
+    "archives_note": []
+  },
+  {
+    "number": 2,
+    "title": "Right to keep and bear arms",
+    "proposed": "1789-09-25",
+    "ratified": "1791-12-15",
+    "date_source": "https://www.archives.gov/founding-docs/bill-of-rights-transcript",
+    "archives_date_line": "Ten of the proposed 12 amendments were ratified by three-fourths of the state legislatures on December 15, 1791.",
+    "author": {
+      "name": "James Madison",
+      "role": "Representative (VA); introduced the amendments in the House, 8 June 1789",
+      "source": "https://www.archives.gov/founding-docs/bill-of-rights"
+    },
+    "co_authors": [],
+    "archives_note": []
+  },
+  {
+    "number": 3,
+    "title": "Quartering of soldiers",
+    "proposed": "1789-09-25",
+    "ratified": "1791-12-15",
+    "date_source": "https://www.archives.gov/founding-docs/bill-of-rights-transcript",
+    "archives_date_line": "Ten of the proposed 12 amendments were ratified by three-fourths of the state legislatures on December 15, 1791.",
+    "author": {
+      "name": "James Madison",
+      "role": "Representative (VA); introduced the amendments in the House, 8 June 1789",
+      "source": "https://www.archives.gov/founding-docs/bill-of-rights"
+    },
+    "co_authors": [],
+    "archives_note": []
+  },
+  {
+    "number": 4,
+    "title": "Searches and seizures",
+    "proposed": "1789-09-25",
+    "ratified": "1791-12-15",
+    "date_source": "https://www.archives.gov/founding-docs/bill-of-rights-transcript",
+    "archives_date_line": "Ten of the proposed 12 amendments were ratified by three-fourths of the state legislatures on December 15, 1791.",
+    "author": {
+      "name": "James Madison",
+      "role": "Representative (VA); introduced the amendments in the House, 8 June 1789",
+      "source": "https://www.archives.gov/founding-docs/bill-of-rights"
+    },
+    "co_authors": [],
+    "archives_note": []
+  },
+  {
+    "number": 5,
+    "title": "Grand jury, double jeopardy, self-incrimination, due process",
+    "proposed": "1789-09-25",
+    "ratified": "1791-12-15",
+    "date_source": "https://www.archives.gov/founding-docs/bill-of-rights-transcript",
+    "archives_date_line": "Ten of the proposed 12 amendments were ratified by three-fourths of the state legislatures on December 15, 1791.",
+    "author": {
+      "name": "James Madison",
+      "role": "Representative (VA); introduced the amendments in the House, 8 June 1789",
+      "source": "https://www.archives.gov/founding-docs/bill-of-rights"
+    },
+    "co_authors": [],
+    "archives_note": []
+  },
+  {
+    "number": 6,
+    "title": "Rights of the accused in criminal prosecutions",
+    "proposed": "1789-09-25",
+    "ratified": "1791-12-15",
+    "date_source": "https://www.archives.gov/founding-docs/bill-of-rights-transcript",
+    "archives_date_line": "Ten of the proposed 12 amendments were ratified by three-fourths of the state legislatures on December 15, 1791.",
+    "author": {
+      "name": "James Madison",
+      "role": "Representative (VA); introduced the amendments in the House, 8 June 1789",
+      "source": "https://www.archives.gov/founding-docs/bill-of-rights"
+    },
+    "co_authors": [],
+    "archives_note": []
+  },
+  {
+    "number": 7,
+    "title": "Jury trial in civil cases",
+    "proposed": "1789-09-25",
+    "ratified": "1791-12-15",
+    "date_source": "https://www.archives.gov/founding-docs/bill-of-rights-transcript",
+    "archives_date_line": "Ten of the proposed 12 amendments were ratified by three-fourths of the state legislatures on December 15, 1791.",
+    "author": {
+      "name": "James Madison",
+      "role": "Representative (VA); introduced the amendments in the House, 8 June 1789",
+      "source": "https://www.archives.gov/founding-docs/bill-of-rights"
+    },
+    "co_authors": [],
+    "archives_note": []
+  },
+  {
+    "number": 8,
+    "title": "Excessive bail, cruel and unusual punishment",
+    "proposed": "1789-09-25",
+    "ratified": "1791-12-15",
+    "date_source": "https://www.archives.gov/founding-docs/bill-of-rights-transcript",
+    "archives_date_line": "Ten of the proposed 12 amendments were ratified by three-fourths of the state legislatures on December 15, 1791.",
+    "author": {
+      "name": "James Madison",
+      "role": "Representative (VA); introduced the amendments in the House, 8 June 1789",
+      "source": "https://www.archives.gov/founding-docs/bill-of-rights"
+    },
+    "co_authors": [],
+    "archives_note": []
+  },
+  {
+    "number": 9,
+    "title": "Rights retained by the people",
+    "proposed": "1789-09-25",
+    "ratified": "1791-12-15",
+    "date_source": "https://www.archives.gov/founding-docs/bill-of-rights-transcript",
+    "archives_date_line": "Ten of the proposed 12 amendments were ratified by three-fourths of the state legislatures on December 15, 1791.",
+    "author": {
+      "name": "James Madison",
+      "role": "Representative (VA); introduced the amendments in the House, 8 June 1789",
+      "source": "https://www.archives.gov/founding-docs/bill-of-rights"
+    },
+    "co_authors": [],
+    "archives_note": []
+  },
+  {
+    "number": 10,
+    "title": "Powers reserved to the States",
+    "proposed": "1789-09-25",
+    "ratified": "1791-12-15",
+    "date_source": "https://www.archives.gov/founding-docs/bill-of-rights-transcript",
+    "archives_date_line": "Ten of the proposed 12 amendments were ratified by three-fourths of the state legislatures on December 15, 1791.",
+    "author": {
+      "name": "James Madison",
+      "role": "Representative (VA); introduced the amendments in the House, 8 June 1789",
+      "source": "https://www.archives.gov/founding-docs/bill-of-rights"
+    },
+    "co_authors": [],
+    "archives_note": [
+      "The capitalization and punctuation in this version is from the enrolled original of the Joint Resolution of Congress proposing the Bill of Rights, which is on permanent display in the Rotunda of the National Archives Building, Washington, D.C."
+    ]
+  },
+  {
+    "number": 11,
+    "title": "Suits against the States",
+    "proposed": "1794-03-04",
+    "ratified": "1795-02-07",
+    "date_source": "https://www.archives.gov/founding-docs/amendments-11-27",
+    "archives_date_line": "Passed by Congress March 4, 1794. Ratified February 7, 1795.",
+    "author": {
+      "name": "Caleb Strong",
+      "role": "Senator (MA); introduced the resolution",
+      "source": "https://constitutioncenter.org/blog/the-11th-amendment-correcting-the-supreme-court-in-action"
+    },
+    "co_authors": [],
+    "archives_note": [
+      "Article III, section 2, of the Constitution was modified by amendment 11."
+    ]
+  },
+  {
+    "number": 12,
+    "title": "Election of President and Vice President",
+    "proposed": "1803-12-09",
+    "ratified": "1804-06-15",
+    "date_source": "https://www.archives.gov/founding-docs/amendments-11-27",
+    "archives_date_line": "Passed by Congress December 9, 1803. Ratified June 15, 1804.",
+    "author": {
+      "name": "John Dawson",
+      "role": "Representative (VA); offered the House resolution, 17 Oct 1803",
+      "source": "https://constitutioncenter.org/news-debate/special-projects/a-madisonian-constitution-for-all/essay-series/the-constitution-the-presidency-and-partisan-democracy-congress-revises-the-electoral-college-1804"
+    },
+    "co_authors": [
+      {
+        "name": "DeWitt Clinton",
+        "role": "Senator (NY); offered the parallel Senate resolution four days later",
+        "source": "https://constitutioncenter.org/news-debate/special-projects/a-madisonian-constitution-for-all/essay-series/the-constitution-the-presidency-and-partisan-democracy-congress-revises-the-electoral-college-1804"
+      }
+    ],
+    "archives_note": [
+      "A portion of Article II, section 1 of the Constitution was superseded by the 12th amendment."
+    ]
+  },
+  {
+    "number": 13,
+    "title": "Abolition of slavery",
+    "proposed": "1865-01-31",
+    "ratified": "1865-12-06",
+    "date_source": "https://www.archives.gov/founding-docs/amendments-11-27",
+    "archives_date_line": "Passed by Congress January 31, 1865. Ratified December 6, 1865.",
+    "author": {
+      "name": "John B. Henderson",
+      "role": "Senator (MO); introduced the joint resolution, Jan 1864",
+      "source": "https://www.senate.gov/about/origins-foundations/senate-and-constitution/senate-passes-the-thirteenth-amendment.htm"
+    },
+    "co_authors": [
+      {
+        "name": "Lyman Trumbull",
+        "role": "Senator (IL); Judiciary chair, reported the resolution with the amendments that became the final text",
+        "source": "https://www.senate.gov/about/origins-foundations/senate-and-constitution/senate-passes-the-thirteenth-amendment.htm"
+      },
+      {
+        "name": "James M. Ashley",
+        "role": "Representative (OH); proposed an abolition amendment Dec 1863 and led House passage",
+        "source": "https://history.house.gov/Historical-Highlights/1851-1900/The-13th-Amendment/"
+      }
+    ],
+    "archives_note": [
+      "A portion of Article IV, section 2, of the Constitution was superseded by the 13th amendment."
+    ]
+  },
+  {
+    "number": 14,
+    "title": "Citizenship, due process and equal protection",
+    "proposed": "1866-06-13",
+    "ratified": "1868-07-09",
+    "date_source": "https://www.archives.gov/founding-docs/amendments-11-27",
+    "archives_date_line": "Passed by Congress June 13, 1866. Ratified July 9, 1868.",
+    "author": {
+      "name": "John A. Bingham",
+      "role": "Representative (OH); principal author of Section 1",
+      "source": "https://constitutioncenter.org/blog/it-was-today-congress-approved-the-14th-amendment"
+    },
+    "co_authors": [
+      {
+        "name": "Thaddeus Stevens",
+        "role": "Representative (PA); introduced the Joint Committee's proposal to the House, 30 Apr 1866",
+        "source": "https://constitutioncenter.org/the-constitution/historic-document-library/detail/thaddeus-stevens-speech-introducing-the-fourteenth-amendment-1866"
+      },
+      {
+        "name": "Jacob M. Howard",
+        "role": "Senator (MI); Joint Committee member, floor manager in the Senate",
+        "source": "https://constitutioncenter.org/blog/it-was-today-congress-approved-the-14th-amendment"
+      }
+    ],
+    "archives_note": [
+      "Article I, section 2, of the Constitution was modified by section 2 of the 14th amendment."
+    ]
+  },
+  {
+    "number": 15,
+    "title": "Right to vote regardless of race",
+    "proposed": "1869-02-26",
+    "ratified": "1870-02-03",
+    "date_source": "https://www.archives.gov/founding-docs/amendments-11-27",
+    "archives_date_line": "Passed by Congress February 26, 1869. Ratified February 3, 1870.",
+    "author": {
+      "name": "George S. Boutwell",
+      "role": "Representative (MA); drafted the version the House passed, 30 Jan 1869",
+      "source": "https://history.house.gov/Historical-Highlights/1851-1900/1869_02_25_15thAmendment/"
+    },
+    "co_authors": [
+      {
+        "name": "William M. Stewart",
+        "role": "Senator (NV); shepherded the amendment through the Senate",
+        "source": "https://15thamendment.harpweek.com/HubPages/CommentaryPage.asp?Commentary=06Bios16"
+      }
+    ],
+    "archives_note": []
+  },
+  {
+    "number": 16,
+    "title": "Federal income tax",
+    "proposed": "1909-07-02",
+    "ratified": "1913-02-03",
+    "date_source": "https://www.archives.gov/founding-docs/amendments-11-27",
+    "archives_date_line": "Passed by Congress July 2, 1909. Ratified February 3, 1913.",
+    "author": {
+      "name": "Norris Brown",
+      "role": "Senator (NE); sponsored the resolution",
+      "source": "https://history.nebraska.gov/100-years-of-the-federal-income-tax/"
+    },
+    "co_authors": [
+      {
+        "name": "Nelson W. Aldrich",
+        "role": "Senator (RI); moved the amendment as the compromise that preserved the Payne-Aldrich tariff",
+        "source": "https://constitution.heritage.org/essays/amdt-16/"
+      }
+    ],
+    "archives_note": [
+      "Article I, section 9, of the Constitution was modified by amendment 16."
+    ]
+  },
+  {
+    "number": 17,
+    "title": "Direct election of Senators",
+    "proposed": "1912-05-13",
+    "ratified": "1913-04-08",
+    "date_source": "https://www.archives.gov/founding-docs/amendments-11-27",
+    "archives_date_line": "Passed by Congress May 13, 1912. Ratified April 8, 1913.",
+    "author": {
+      "name": "Joseph L. Bristow",
+      "role": "Senator (KS); author of the 'Bristow amendment'",
+      "source": "https://www.senate.gov/artandhistory/history/common/generic/SeventeenthAmendment.htm"
+    },
+    "co_authors": [
+      {
+        "name": "William E. Borah",
+        "role": "Senator (ID); leading proponent",
+        "source": "https://www.senate.gov/artandhistory/history/common/generic/SeventeenthAmendment.htm"
+      }
+    ],
+    "archives_note": [
+      "Article I, section 3, of the Constitution was modified by the 17th amendment."
+    ]
+  },
+  {
+    "number": 18,
+    "title": "Prohibition of intoxicating liquors",
+    "proposed": "1917-12-18",
+    "ratified": "1919-01-16",
+    "date_source": "https://www.archives.gov/founding-docs/amendments-11-27",
+    "archives_date_line": "Passed by Congress December 18, 1917. Ratified January 16, 1919. Repealed by amendment 21.",
+    "author": {
+      "name": "Morris Sheppard",
+      "role": "Senator (TX); introduced the joint resolution, 4 Apr 1917",
+      "source": "https://www.tshaonline.org/handbook/entries/sheppard-john-morris"
+    },
+    "co_authors": [],
+    "archives_note": []
+  },
+  {
+    "number": 19,
+    "title": "Woman suffrage",
+    "proposed": "1919-06-04",
+    "ratified": "1920-08-18",
+    "date_source": "https://www.archives.gov/founding-docs/amendments-11-27",
+    "archives_date_line": "Passed by Congress June 4, 1919. Ratified August 18, 1920.",
+    "author": {
+      "name": "Aaron A. Sargent",
+      "role": "Senator (CA); introduced the text in 1878 as the 'Susan B. Anthony Amendment'",
+      "source": "https://history.house.gov/Historical-Highlights/1901-1950/The-19th-Amendment/"
+    },
+    "co_authors": [
+      {
+        "name": "James R. Mann",
+        "role": "Representative (IL); Woman Suffrage Committee chair, secured House passage 21 May 1919",
+        "source": "https://history.house.gov/Historical-Highlights/1901-1950/The-19th-Amendment/"
+      }
+    ],
+    "archives_note": []
+  },
+  {
+    "number": 20,
+    "title": "Terms of office; the 'Lame Duck' amendment",
+    "proposed": "1932-03-02",
+    "ratified": "1933-01-23",
+    "date_source": "https://www.archives.gov/founding-docs/amendments-11-27",
+    "archives_date_line": "Passed by Congress March 2, 1932. Ratified January 23, 1933.",
+    "author": {
+      "name": "George W. Norris",
+      "role": "Senator (NE); Judiciary chair and sponsor of the 'Lame Duck Amendment'",
+      "source": "https://www.annenbergclassroom.org/resource/our-constitution/constitution-amendment-20/"
+    },
+    "co_authors": [],
+    "archives_note": [
+      "Article I, section 4, of the Constitution was modified by section 2 of this amendment. In addition, a portion of the 12th amendment was superseded by section 3."
+    ]
+  },
+  {
+    "number": 21,
+    "title": "Repeal of Prohibition",
+    "proposed": "1933-02-20",
+    "ratified": "1933-12-05",
+    "date_source": "https://www.archives.gov/founding-docs/amendments-11-27",
+    "archives_date_line": "Passed by Congress February 20, 1933. Ratified December 5, 1933.",
+    "author": {
+      "name": "John J. Blaine",
+      "role": "Senator (WI); drafted and submitted the repeal resolution, 6 Dec 1932",
+      "source": "https://www.congress.gov/crs-product/LSB11067"
+    },
+    "co_authors": [],
+    "archives_note": []
+  },
+  {
+    "number": 22,
+    "title": "Presidential term limits",
+    "proposed": "1947-03-21",
+    "ratified": "1951-02-27",
+    "date_source": "https://www.archives.gov/founding-docs/amendments-11-27",
+    "archives_date_line": "Passed by Congress March 21, 1947. Ratified February 27, 1951.",
+    "author": {
+      "name": "Earl C. Michener",
+      "role": "Representative (MI); introduced the term-limit resolution",
+      "source": "https://www.encyclopedia.com/law/legal-and-political-magazines/twenty-second-amendment"
+    },
+    "co_authors": [],
+    "archives_note": []
+  },
+  {
+    "number": 23,
+    "title": "Presidential electors for the District of Columbia",
+    "proposed": "1960-06-16",
+    "ratified": "1961-03-29",
+    "date_source": "https://www.archives.gov/founding-docs/amendments-11-27",
+    "archives_date_line": "Passed by Congress June 16, 1960. Ratified March 29, 1961.",
+    "author": {
+      "name": "Kenneth B. Keating",
+      "role": "Senator (NY); added the District electoral-vote clause",
+      "source": "https://www.senate.gov/senators/FeaturedBios/Featured_Bio_KeatingKenneth.htm"
+    },
+    "co_authors": [
+      {
+        "name": "Estes Kefauver",
+        "role": "Senator (TN); author of the resolution that carried the clause",
+        "source": "https://www.encyclopedia.com/law/legal-and-political-magazines/twenty-third-amendment"
+      }
+    ],
+    "archives_note": []
+  },
+  {
+    "number": 24,
+    "title": "Abolition of the poll tax",
+    "proposed": "1962-08-27",
+    "ratified": "1964-01-23",
+    "date_source": "https://www.archives.gov/founding-docs/amendments-11-27",
+    "archives_date_line": "Passed by Congress August 27, 1962. Ratified January 23, 1964.",
+    "author": {
+      "name": "Spessard L. Holland",
+      "role": "Senator (FL); proposed the poll-tax amendment",
+      "source": "https://constitution.heritage.org/essays/amdt-24/"
+    },
+    "co_authors": [],
+    "archives_note": []
+  },
+  {
+    "number": 25,
+    "title": "Presidential succession and disability",
+    "proposed": "1965-07-06",
+    "ratified": "1967-02-10",
+    "date_source": "https://www.archives.gov/founding-docs/amendments-11-27",
+    "archives_date_line": "Passed by Congress July 6, 1965. Ratified February 10, 1967.",
+    "author": {
+      "name": "Birch Bayh",
+      "role": "Senator (IN); author, chair of the Subcommittee on Constitutional Amendments",
+      "source": "https://ir.lawnet.fordham.edu/flr/vol86/iss3/7/"
+    },
+    "co_authors": [],
+    "archives_note": [
+      "Article II, section 1, of the Constitution was affected by the 25th amendment."
+    ]
+  },
+  {
+    "number": 26,
+    "title": "Voting age of eighteen",
+    "proposed": "1971-03-23",
+    "ratified": "1971-07-01",
+    "date_source": "https://www.archives.gov/founding-docs/amendments-11-27",
+    "archives_date_line": "Passed by Congress March 23, 1971. Ratified July 1, 1971.",
+    "author": {
+      "name": "Jennings Randolph",
+      "role": "Senator (WV); chief sponsor, introduced the proposal repeatedly from 1942",
+      "source": "https://www.annenbergclassroom.org/resource/our-constitution/constitution-amendment-26/"
+    },
+    "co_authors": [
+      {
+        "name": "Birch Bayh",
+        "role": "Senator (IN); drove the 1971 passage as subcommittee chair",
+        "source": "https://ir.lawnet.fordham.edu/flr/vol86/iss3/7/"
+      }
+    ],
+    "archives_note": [
+      "Amendment 14, section 2, of the Constitution was modified by section 1 of the 26th amendment."
+    ]
+  },
+  {
+    "number": 27,
+    "title": "Congressional compensation",
+    "proposed": "1789-09-25",
+    "ratified": "1992-05-07",
+    "date_source": "https://www.archives.gov/founding-docs/amendments-11-27",
+    "archives_date_line": "Originally proposed Sept. 25, 1789. Ratified May 7, 1992.",
+    "author": {
+      "name": "James Madison",
+      "role": "Representative (VA); drafted it as part of the 1789 package",
+      "source": "https://www.archives.gov/founding-docs/amendments-11-27"
+    },
+    "co_authors": [
+      {
+        "name": "Gregory Watson",
+        "role": "University of Texas undergraduate whose 1982-1992 campaign secured ratification",
+        "source": "https://www.archives.gov/founding-docs/amendments-11-27"
+      }
+    ],
+    "archives_note": []
+  }
+]

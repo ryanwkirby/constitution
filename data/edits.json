@@ -1,0 +1,74 @@
+[
+  {
+    "amendment": 11,
+    "file": "constitution/article-03.md",
+    "strike": "between a State and Citizens of another State",
+    "insert": null,
+    "source": "https://www.archives.gov/founding-docs/constitution-transcript"
+  },
+  {
+    "amendment": 12,
+    "file": "constitution/article-02.md",
+    "strike": "The Electors shall meet in their respective States, and vote by Ballot for two Persons, of whom one at least shall not be an Inhabitant of the same State with themselves.\nAnd they shall make a List of all the Persons voted for, and of the Number of Votes for each;\nwhich List they shall sign and certify, and transmit sealed to the Seat of the Government of the United States, directed to the President of the Senate.\nThe President of the Senate shall, in the Presence of the Senate and House of Representatives, open all the Certificates, and the Votes shall then be counted.\nThe Person having the greatest Number of Votes shall be the President, if such Number be a Majority of the whole Number of Electors appointed;\nand if there be more than one who have such Majority, and have an equal Number of Votes, then the House of Representatives shall immediately chuse by Ballot one of them for President;\nand if no Person have a Majority, then from the five highest on the List the said House shall in like Manner chuse the President.\nBut in chusing the President, the Votes shall be taken by States, the Representation from each State having one Vote;\nA quorum for this Purpose shall consist of a Member or Members from two thirds of the States, and a Majority of all the States shall be necessary to a Choice.\nIn every Case, after the Choice of the President, the Person having the greatest Number of Votes of the Electors shall be the Vice President.\nBut if there should remain two or more who have equal Votes, the Senate shall chuse from them by Ballot the Vice President.",
+    "insert": null,
+    "source": "https://www.archives.gov/founding-docs/constitution-transcript"
+  },
+  {
+    "amendment": 13,
+    "file": "constitution/article-04.md",
+    "strike": "No Person held to Service or Labour in one State, under the Laws thereof, escaping into another, shall, in Consequence of any Law or Regulation therein, be discharged from such Service or Labour, but shall be delivered up on Claim of the Party to whom such Service or Labour may be due.",
+    "insert": null,
+    "source": "https://www.archives.gov/founding-docs/constitution-transcript"
+  },
+  {
+    "amendment": 14,
+    "file": "constitution/article-01.md",
+    "strike": "Representatives and direct Taxes shall be apportioned among the several States which may be included within this Union, according to their respective Numbers, which shall be determined by adding to the whole Number of free Persons, including those bound to Service for a Term of Years, and excluding Indians not taxed, three fifths of all other Persons.",
+    "insert": "Representatives shall be apportioned among the several States according to their respective numbers, counting the whole number of persons in each State, excluding Indians not taxed.",
+    "source": "https://www.archives.gov/founding-docs/constitution-transcript"
+  },
+  {
+    "amendment": 16,
+    "file": "constitution/article-01.md",
+    "strike": "unless in Proportion to the Census or enumeration herein before directed to be taken.",
+    "insert": null,
+    "source": "https://www.archives.gov/founding-docs/constitution-transcript"
+  },
+  {
+    "amendment": 17,
+    "file": "constitution/article-01.md",
+    "strike": "chosen by the Legislature",
+    "insert": "elected by the people",
+    "source": "https://www.archives.gov/founding-docs/constitution-transcript"
+  },
+  {
+    "amendment": 17,
+    "file": "constitution/article-01.md",
+    "strike": "and if Vacancies happen by Resignation, or otherwise, during the Recess of the Legislature of any State, the Executive thereof may make temporary Appointments until the next Meeting of the Legislature, which shall then fill such Vacancies.",
+    "insert": null,
+    "source": "https://www.archives.gov/founding-docs/constitution-transcript"
+  },
+  {
+    "amendment": 20,
+    "file": "constitution/article-01.md",
+    "strike": "the first Monday in December",
+    "insert": "the 3d day of January",
+    "source": "https://www.archives.gov/founding-docs/constitution-transcript"
+  },
+  {
+    "amendment": 25,
+    "file": "constitution/article-02.md",
+    "strike": "In Case of the Removal of the President from Office, or of his Death, Resignation, or Inability to discharge the Powers and Duties of the said Office, the Same shall devolve on the Vice President, and the Congress may by Law provide for the Case of Removal, Death, Resignation or Inability, both of the President and Vice President, declaring what Officer shall then act as President, and such Officer shall act accordingly, until the Disability be removed, or a President shall be elected.",
+    "insert": null,
+    "source": "https://www.archives.gov/founding-docs/constitution-transcript"
+  },
+  {
+    "amendment": 26,
+    "file": "amendments/amendment-14.md",
+    "strike": "twenty-one years",
+    "insert": "eighteen years",
+    "count": 2,
+    "note": "Section 1 of the 26th modified Section 2 of the 14th. Section 2 states the age qualification twice; the 26th lowered both.",
+    "source": "https://www.archives.gov/founding-docs/amendments-11-27"
+  }
+]
