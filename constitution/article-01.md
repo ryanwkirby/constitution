@@ -111,8 +111,7 @@ The Privilege of the Writ of Habeas Corpus shall not be suspended, unless when i
 
 No Bill of Attainder or ex post facto Law shall be passed.
 
-No Capitation, or other direct, Tax shall be laid, unless in Proportion to the Census or enumeration herein before directed to be taken.
-
+No Capitation, or other direct, Tax shall be laid.
 No Tax or Duty shall be laid on Articles exported from any State.
 
 No Preference shall be given by any Regulation of Commerce or Revenue to the Ports of one State over those of another: nor shall Vessels bound to, or from, one State, be obliged to enter, clear, or pay Duties in another.
