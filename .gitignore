@@ -1,0 +1,8 @@
+# Agent instructions are not part of the Constitution.
+AGENTS.md
+CLAUDE.md
+GEMINI.md
+
+__pycache__/
+*.pyc
+.build/
