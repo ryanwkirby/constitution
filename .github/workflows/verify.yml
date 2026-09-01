@@ -1,0 +1,38 @@
+name: verify
+
+on:
+  push:
+    branches: [workshop]
+  pull_request:
+    branches: [workshop]
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      # Builds from the committed sources/ and data/, so CI needs no network.
+      # Refreshing sources/ from the National Archives is a deliberate local step.
+      - name: Rebuild the dataset and edit specs
+        run: |
+          python3 scripts/build_dataset.py
+          python3 scripts/build_edits.py
+          python3 scripts/build_docs.py
+
+      - name: Fail if generated files are stale
+        run: |
+          if ! git diff --quiet; then
+            echo "::error::data/ or docs/ is stale — rerun the build scripts and commit"
+            git --no-pager diff --stat
+            exit 1
+          fi
+
+      - name: Generate the constitutional history
+        run: python3 scripts/build_history.py
+
+      - name: Verify it against the sourced record
+        run: python3 scripts/verify.py
