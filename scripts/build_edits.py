@@ -21,7 +21,9 @@ ROOT = pathlib.Path(__file__).resolve().parent.parent
 # more than one passage and only some strikes have a substitute.
 INSERTS = {
     "chosen by the Legislature": "elected by the people",
-    "the first Monday in December": "noon on the 3d day of January",
+    # The surrounding text already reads "such Meeting shall be on ...", so the
+    # substitute drops the 20th's own leading "noon on" to avoid "be on noon on".
+    "the first Monday in December": "the 3d day of January",
     "Representatives and direct Taxes shall be": (
         "Representatives shall be apportioned among the several States according to "
         "their respective numbers, counting the whole number of persons in each State, "
