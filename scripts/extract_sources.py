@@ -188,8 +188,19 @@ def main():
         (adir / f"amendment-{num:02d}.md").write_text(
             "\n".join(lines).rstrip() + "\n", encoding="utf-8")
 
+    # The Bill of Rights page states its ratification date in prose rather than
+    # in a "Passed by Congress ... Ratified ..." line. Capture that sentence so
+    # amendments 1-10 are sourced verbatim like every other amendment.
+    bor_text = re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]+>", " ", bor_raw)))
+    m = re.search(r"[^.]*ratified by three-fourths of the state legislatures on "
+                  r"December 15, 1791\.", bor_text)
+    bor_line = m.group(0).strip() if m else None
+    if not bor_line:
+        raise SystemExit("could not find the Bill of Rights ratification sentence")
+
     (ROOT / "sources" / "archives-metadata.json").write_text(json.dumps({
         "superseded": superseded,
+        "bill_of_rights_line": bor_line,
         "date_lines": {str(n): d["dates_line"] for n, d in sorted(allamd.items())},
         "notes": {str(n): d.get("notes", []) for n, d in sorted(allamd.items())
                   if d.get("notes")},
