@@ -15,8 +15,9 @@ ROOT = pathlib.Path(__file__).resolve().parent.parent
 ARCHIVES_AMD = "https://www.archives.gov/founding-docs/amendments-11-27"
 ARCHIVES_BOR = "https://www.archives.gov/founding-docs/bill-of-rights-transcript"
 
-# Bill of Rights dates are not on the amendments-11-27 page; the Archives Bill of
-# Rights transcript gives the 1789-09-25 joint resolution and 1791-12-15 ratification.
+# Bill of Rights dates are not on the amendments-11-27 page. The Archives Bill of
+# Rights transcript states them in prose, and extract_sources.py captures that
+# sentence verbatim as `bill_of_rights_line`.
 BOR_DATES = {"proposed": "1789-09-25", "ratified": "1791-12-15", "source": ARCHIVES_BOR}
 
 # name, role, one source establishing the attribution
@@ -93,9 +94,9 @@ def main():
     for num in range(1, 28):
         line = meta["date_lines"].get(str(num))
         if num <= 10:
-            proposed, ratified, dsrc, dline = (
-                BOR_DATES["proposed"], BOR_DATES["ratified"], ARCHIVES_BOR,
-                "Proposed by Congress September 25, 1789. Ratified December 15, 1791.")
+            proposed, ratified, dsrc = (
+                BOR_DATES["proposed"], BOR_DATES["ratified"], ARCHIVES_BOR)
+            dline = meta["bill_of_rights_line"]
         else:
             parts = re.split(r"(?<=\.)\s+(?=Ratified)", line)
             proposed, ratified = parse_date(parts[0]), parse_date(parts[1])
