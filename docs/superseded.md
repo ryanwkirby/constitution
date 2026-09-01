@@ -15,7 +15,7 @@ survives in `constitution/` at HEAD.
 | XVI | `constitution/article-01.md` | unless in Proportion to the Census or enumeration herein before direct… | *(deleted)* |
 | XVII | `constitution/article-01.md` | chosen by the Legislature | elected by the people |
 | XVII | `constitution/article-01.md` | and if Vacancies happen by Resignation, or otherwise, during the Reces… | *(deleted)* |
-| XX | `constitution/article-01.md` | the first Monday in December | noon on the 3d day of January |
+| XX | `constitution/article-01.md` | the first Monday in December | the 3d day of January |
 | XXV | `constitution/article-02.md` | In Case of the Removal of the President from Office, or of his Death, … | *(deleted)* |
 | XXVI | `amendments/amendment-14.md` | twenty-one years ×2 | eighteen years |
 

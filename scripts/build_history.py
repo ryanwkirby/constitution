@@ -111,6 +111,39 @@ def tag(name, message, datestr, tagger=STATES):
         "GIT_COMMITTER_DATE": stamp(datestr), "GIT_TAGGER_DATE": stamp(datestr)})
 
 
+def splice(text, strike, insert, count):
+    """Replace a passage, repairing only the junction the removal creates.
+
+    An earlier version ran a punctuation pass over the whole file and quietly
+    rewrote text no amendment had touched -- turning a legitimate ventilated
+    "...without due process of law;" into "...law." several clauses away from
+    any edit. Repairs are therefore made only at the splice point, and
+    verify.py reproduces HEAD from the 1787 baseline to prove nothing else moved.
+    """
+    for _ in range(count):
+        i = text.index(strike)
+        before, after = text[:i], text[i + len(strike):]
+        if insert:
+            text = before + insert + after
+            continue
+        # A deletion strands the separators that attached the clause to its list.
+        m = re.search(r"([;,]\u2014|[;,])[ \t]*$", before)
+        if m:
+            sep = m.group(1)
+            nxt = re.match(r"[ \t]*([;,]\u2014|[;,])", after)
+            if nxt:
+                # Two separators now adjacent: keep the first, drop the second.
+                after = after[nxt.end():]
+            elif re.match(r"[ \t]*(\n|$)", after):
+                # The sentence was truncated: close it.
+                before = before[:m.start()] + "."
+        text = before + after
+    # Collapse whitespace the removal doubled up, at the junction only.
+    text = re.sub(r"[ \t]{2,}", " ", text)
+    text = re.sub(r"\n{3,}", "\n\n", text)
+    return text
+
+
 def apply_edits(edits):
     """Strike superseded text; insert the replacement where one exists."""
     for e in edits:
@@ -122,26 +155,8 @@ def apply_edits(edits):
             raise SystemExit(
                 f"anchor for amendment {e['amendment']} matched {found} times, "
                 f"expected {expected}: {e['strike'][:60]!r}")
-        text = text.replace(e["strike"], e.get("insert") or "")
-        path.write_text(tidy(text), encoding="utf-8")
-
-
-def tidy(text):
-    """Repair punctuation stranded by a deletion.
-
-    Striking a clause out of a list leaves its separators behind: removing
-    "between a State and Citizens of another State" from Article III leaves
-    ";\u2014 ,\u2014between Citizens", and truncating a sentence leaves it ending
-    in a comma. verify.py asserts none of these patterns survive.
-    """
-    text = re.sub(r"[ \t]{2,}", " ", text)
-    text = re.sub(r"([;,]\u2014)\s*[;,]\u2014", r"\1", text)
-    text = re.sub(r"([;,]\u2014)\s*[;,](?=\s)", r"\1", text)
-    text = re.sub(r"[ \t]+([;,.])", r"\1", text)
-    text = re.sub(r"[,;]\s*$", ".", text, flags=re.M)
-    text = re.sub(r"\u2014\s*$", ".", text, flags=re.M)
-    text = re.sub(r"\n{3,}", "\n\n", text)
-    return text
+        path.write_text(splice(text, e["strike"], e.get("insert"), expected),
+                        encoding="utf-8")
 
 
 def trailers(a, kind):
